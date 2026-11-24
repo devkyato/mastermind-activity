@@ -1,0 +1,7 @@
+# Java build output
+*.class
+MasterMind/bin/
+
+# IDE files
+.idea/
+.vscode/
